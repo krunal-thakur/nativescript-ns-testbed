@@ -1,0 +1,4 @@
+/home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/assets/app/tns-java-classes.js
+/home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/assets/app/bundle.js
+/home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/assets/app/runtime.js
+/home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/assets/app/vendor.js

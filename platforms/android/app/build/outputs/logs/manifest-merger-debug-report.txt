@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/20824146b2be5c04f734ac1c89f3c715/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/4d7af46521dfb3e0b48ae85c5579f4a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/e59545afd705094030284ac272868ba2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/george/.gradle/caches/transforms-2/files-2.1/771f898990180b555614f8d5b3df31b2/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/george/.gradle/caches/transforms-2/files-2.1/a1d314d195fb043422b6b65a51235779/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:2:1-13:12
+MERGED from [:widgets-release:] /home/george/.gradle/caches/transforms-2/files-2.1/318ca28f61eea66bd1ff9730c3edff6d/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.media:media:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/171fd704a274f407fd9bd897aa39b293/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/c45d946ee4a8f8b8da261c546d169ff2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/6d74249b8c180e39a147842f9a412080/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/77475eaf30317af85cbbbf5be4179f31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/227b863b8ba974f064db78e241a87c43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2c4712dd8d948cb73b9a7252b0bd9a84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/c35e3ff2e42e18b98872044554a19d16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/11caefb317cf95acc21c5b9525361b34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a6d51196300b29f0e7f080143034e474/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bdce33f7d1365a9235f0f7a46e5ceb97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/b407612b8b7cec8afb850e1389c877ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c21e66f552334e6898c2fc1459ad8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/1a385c6a98e380996c1efc3309981724/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/f488741ac06ae76e70a3e7ba6d0c240f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2e37e025ba0287b491b93de9db5b13c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/82bb5cdb90d4769ede42499777b14906/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/babaecebe686d2044c7a4aa9fa3987d1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/caf8664e106163f4dcca26b11b06ea03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/72a37e0bb51036fa61670a13ae7e7e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/24dd76af1cf7f98ed2b0339a3341f22b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/671c771bd7448cc7e8298a4545bf946d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a95b84c0f78eaf72daf8960049a8b480/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/654a1665d8853e4a187b7f04425fab8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/7ea5ceada1dc6f364903d43716e19c83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/0f5f3c07e1d2fee04c479e4916abcc80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c9f4a015730cdc3fcd24ed5b65ee58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/32bced3b1b206c2284811b8aaef8b8b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bc93acbbd85678e8dcb74f87a153f8a3/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:3:2-35
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:13:2-76
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:13:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:14:2-77
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:14:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:15:2-63
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:9:5-67
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:15:19-61
+application
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:17:2-38:16
+MERGED from [com.google.android.material:material:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/e59545afd705094030284ac272868ba2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/e59545afd705094030284ac272868ba2/AndroidManifest.xml:22:5-20
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:11:5-56
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:11:5-56
+MERGED from [:widgets-release:] /home/george/.gradle/caches/transforms-2/files-2.1/318ca28f61eea66bd1ff9730c3edff6d/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/george/.gradle/caches/transforms-2/files-2.1/318ca28f61eea66bd1ff9730c3edff6d/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/babaecebe686d2044c7a4aa9fa3987d1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/babaecebe686d2044c7a4aa9fa3987d1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:21:3-35
+	android:icon
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:20:3-32
+	android:allowBackup
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:19:3-29
+	android:theme
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:22:3-34
+	android:usesCleartextTraffic
+		ADDED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:11:18-53
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:18:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:24:3-36:14
+	android:label
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:26:4-49
+	android:configChanges
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:27:4-120
+	android:theme
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:28:4-44
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:25:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:30:4-87
+	android:resource
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:30:50-84
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:30:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:32:4-35:20
+action#android.intent.action.MAIN
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:34:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:37:3-57
+	android:name
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml:37:13-55
+uses-sdk
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/20824146b2be5c04f734ac1c89f3c715/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/20824146b2be5c04f734ac1c89f3c715/AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/4d7af46521dfb3e0b48ae85c5579f4a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/4d7af46521dfb3e0b48ae85c5579f4a8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/e59545afd705094030284ac272868ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/e59545afd705094030284ac272868ba2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/george/.gradle/caches/transforms-2/files-2.1/771f898990180b555614f8d5b3df31b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/george/.gradle/caches/transforms-2/files-2.1/771f898990180b555614f8d5b3df31b2/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /home/george/.gradle/caches/transforms-2/files-2.1/a1d314d195fb043422b6b65a51235779/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/george/.gradle/caches/transforms-2/files-2.1/a1d314d195fb043422b6b65a51235779/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_unit_test_runner:] /home/george/.gradle/caches/transforms-2/files-2.1/fe1169d419b4802e3e81e6c9f7cac4f4/AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] /home/george/.gradle/caches/transforms-2/files-2.1/318ca28f61eea66bd1ff9730c3edff6d/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/george/.gradle/caches/transforms-2/files-2.1/318ca28f61eea66bd1ff9730c3edff6d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/171fd704a274f407fd9bd897aa39b293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/171fd704a274f407fd9bd897aa39b293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/c45d946ee4a8f8b8da261c546d169ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/c45d946ee4a8f8b8da261c546d169ff2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/6d74249b8c180e39a147842f9a412080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/6d74249b8c180e39a147842f9a412080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/77475eaf30317af85cbbbf5be4179f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/77475eaf30317af85cbbbf5be4179f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/227b863b8ba974f064db78e241a87c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/227b863b8ba974f064db78e241a87c43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2c4712dd8d948cb73b9a7252b0bd9a84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2c4712dd8d948cb73b9a7252b0bd9a84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/c35e3ff2e42e18b98872044554a19d16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/c35e3ff2e42e18b98872044554a19d16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/11caefb317cf95acc21c5b9525361b34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/11caefb317cf95acc21c5b9525361b34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a6d51196300b29f0e7f080143034e474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a6d51196300b29f0e7f080143034e474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bdce33f7d1365a9235f0f7a46e5ceb97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bdce33f7d1365a9235f0f7a46e5ceb97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/b407612b8b7cec8afb850e1389c877ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/b407612b8b7cec8afb850e1389c877ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c21e66f552334e6898c2fc1459ad8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c21e66f552334e6898c2fc1459ad8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/1a385c6a98e380996c1efc3309981724/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/1a385c6a98e380996c1efc3309981724/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/f488741ac06ae76e70a3e7ba6d0c240f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/f488741ac06ae76e70a3e7ba6d0c240f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2e37e025ba0287b491b93de9db5b13c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/2e37e025ba0287b491b93de9db5b13c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/82bb5cdb90d4769ede42499777b14906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/82bb5cdb90d4769ede42499777b14906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/george/.gradle/caches/transforms-2/files-2.1/1b9ac791213dde38f69571299dd60a66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/babaecebe686d2044c7a4aa9fa3987d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/babaecebe686d2044c7a4aa9fa3987d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/caf8664e106163f4dcca26b11b06ea03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/caf8664e106163f4dcca26b11b06ea03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/72a37e0bb51036fa61670a13ae7e7e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/72a37e0bb51036fa61670a13ae7e7e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/24dd76af1cf7f98ed2b0339a3341f22b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/24dd76af1cf7f98ed2b0339a3341f22b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/671c771bd7448cc7e8298a4545bf946d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/671c771bd7448cc7e8298a4545bf946d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a95b84c0f78eaf72daf8960049a8b480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a95b84c0f78eaf72daf8960049a8b480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/654a1665d8853e4a187b7f04425fab8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/654a1665d8853e4a187b7f04425fab8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/7ea5ceada1dc6f364903d43716e19c83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/7ea5ceada1dc6f364903d43716e19c83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/0f5f3c07e1d2fee04c479e4916abcc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/0f5f3c07e1d2fee04c479e4916abcc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c9f4a015730cdc3fcd24ed5b65ee58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/a5c9f4a015730cdc3fcd24ed5b65ee58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/32bced3b1b206c2284811b8aaef8b8b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/32bced3b1b206c2284811b8aaef8b8b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bc93acbbd85678e8dcb74f87a153f8a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/george/.gradle/caches/transforms-2/files-2.1/bc93acbbd85678e8dcb74f87a153f8a3/AndroidManifest.xml:20:5-44
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/george/Documents/george/sample-angular-testbed/platforms/android/app/src/main/AndroidManifest.xml
