@@ -1,8 +1,0 @@
-{
-	"nativescript-unit-test-runner": {
-		"/home/george/Documents/george/sample-angular-testbed/node_modules/nativescript-unit-test-runner/platforms/android/nativescript_unit_test_runner.aar": "c2e2783a09ca8bb92ccebe6825948f2269d12d6e"
-	},
-	"tns-core-modules-widgets": {
-		"/home/george/Documents/george/sample-angular-testbed/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "a57aaf63491cb3fdf36164a824485b607030554a"
-	}
-}
