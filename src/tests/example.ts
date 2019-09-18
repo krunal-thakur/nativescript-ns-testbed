@@ -1,8 +1,10 @@
 import { ItemsComponent } from '~/app/item/items.component';
 import { By } from '@angular/platform-browser';
-import { nsTestBedBeforeEach, nsTestBedAfterEach, nsTestBedRender } from 'nativescript-angular/testing';
+import { nsTestBedBeforeEach, nsTestBedAfterEach, nsTestBedRender, nsTestBedInit }     from "nativescript-angular/testing";
 
 describe('item-detail-component', () => {
+  beforeAll(() => nsTestBedInit());
+  afterAll(() => { });
   beforeEach(nsTestBedBeforeEach(
     [ItemsComponent]
   ));
