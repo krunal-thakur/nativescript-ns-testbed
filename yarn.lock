@@ -13,17 +13,6 @@
     rxjs "6.4.0"
     source-map "0.7.3"
 
-"@angular-devkit/core@8.0.6":
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.0.6.tgz#540ff673f1808fc09538c8aa6c01f08750921301"
-  integrity sha512-gbKEVsQuYqBJPzgaxEitvs0aN9NwmUHhTkum28mRyPbS3witay/q8+3ls48M2W+98Da/PQbfndxFY4OCa+qHEA==
-  dependencies:
-    ajv "6.10.0"
-    fast-json-stable-stringify "2.0.0"
-    magic-string "0.25.2"
-    rxjs "6.4.0"
-    source-map "0.7.3"
-
 "@angular/animations@~8.0.0":
   version "8.0.3"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-8.0.3.tgz#9fc82919b8eb28d4d1a9ff93095907acb2a64e91"
@@ -38,10 +27,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/compiler-cli@~8.0.0":
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-8.0.3.tgz#14047c99d034384f92044a77954fbdeb2fbdb604"
-  integrity sha512-6nckvBnnp1YnrxwCB8UKvhHAMcUa1WvGjbYMEqhgiBreiRT4ub+tKVPNzrRtQFPpcXtY1wlgOWqYHWhHRtcLlg==
+"@angular/compiler-cli@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-8.0.0.tgz#b53ebb5accc34a68bf7a63d16130ca7c568f8a51"
+  integrity sha512-Z0U0Ih8A7V3J1gq7AXnXbrGAD2ERmz7JbREJJRHDWiUNxIqGQiV3Odo1V8FL5n/cKvLwSYM2Ubvk10gb0+3njA==
   dependencies:
     canonical-path "1.0.0"
     chokidar "^2.1.1"
@@ -104,12 +93,12 @@
   dependencies:
     tslib "^1.9.0"
 
-"@ngtools/webpack@~8.0.0":
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.0.6.tgz#c6b5416710913b24b741a17c8f255e54f42c9abf"
-  integrity sha512-ulu+5lLt4RjmcCXbmaGCjqjuOWt18DVek/Sq4HFE9E7zP+n7HercsU6h+9PrtaZThj9NB0B7A+afRB5aAQN/bQ==
+"@ngtools/webpack@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.0.0.tgz#1a842f14b80f5430358374d0150659cb029a0198"
+  integrity sha512-IbljboxtAde95VbxpmCLzVMA9SrPPCFsBsDu2bmCjRGRSjnMVbXNPFm3fel4AxjT+St650w8RLJ4h6Fb+AV/Aw==
   dependencies:
-    "@angular-devkit/core" "8.0.6"
+    "@angular-devkit/core" "8.0.0"
     enhanced-resolve "4.1.0"
     rxjs "6.4.0"
     tree-kill "1.2.1"
