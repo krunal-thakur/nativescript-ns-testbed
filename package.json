@@ -21,11 +21,6 @@
     "@angular/platform-browser": "~8.0.0",
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
-    "@types/jasmine": "3.3.14",
-    "karma": "*",
-    "karma-jasmine": "2.0.1",
-    "karma-nativescript-launcher": "0.4.0",
-    "karma-webpack": "4.0.2",
     "nativescript-angular": "~8.0.0",
     "nativescript-theme-core": "~1.0.6",
     "nativescript-unit-test-runner": "^0.7.0",
@@ -37,6 +32,11 @@
   "devDependencies": {
     "@angular/compiler-cli": "8.0.0",
     "@ngtools/webpack": "8.0.0",
+    "@types/jasmine": "3.3.14",
+    "karma": "4.3.0",
+    "karma-jasmine": "2.0.1",
+    "karma-nativescript-launcher": "0.4.0",
+    "karma-webpack": "3.0.5",
     "nativescript-dev-webpack": "~1.0.0",
     "typescript": "~3.4.0"
   },
